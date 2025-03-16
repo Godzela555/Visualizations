@@ -1,3 +1,9 @@
+# Presentation
+
+* HosGency
+
+This presentation used for pitching at SIP internship, Bangkok Bank
+
 # Visualizations
 
 * Average_Rented_Bike
